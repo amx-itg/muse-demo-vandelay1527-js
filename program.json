@@ -1,0 +1,10 @@
+{
+  "id": "ITG_DEMO_JS",
+  "name": "ITG Demo Lab JS",
+  "description": "Initial release of complete sample room in javascript",
+  "disabled": false,
+  "provider": "javascript",
+  "scope": "",
+  "script": "index.js",
+  "envvars": {}
+}
