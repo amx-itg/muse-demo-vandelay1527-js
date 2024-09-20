@@ -4,7 +4,7 @@ This file documents the setup and deployment of the demo conference room "Vandel
 ## MUSE SETUP
 
 ### Install Extensions, Jars, and IRL Files
-- Install  TCP Extension - AMX-IPComm-1.0.0.jar
+- Install  TCP Extension - AMX-IPComm-1.0.3.jar or newer
 - Upload IRL File - Plug-Ins > idevice
 - Upload Duet Files (Vaddio and Display) - Plugins > Duet
 
